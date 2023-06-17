@@ -9,7 +9,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-
+![Screenshot 2023-06-17 165726](https://github.com/WoodsonTD/holbertonschool-headphones/assets/108370739/2ae42c92-2215-4f21-a96f-f28d78f3afe5)
 
 # Requirements
 * you are not allowed to import external CSS framework (like Bootstrap)
