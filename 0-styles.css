@@ -73,7 +73,7 @@ header .header nav {
 body {
     background-image: url("images/headphones_hero_1.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: flex;
 }
 
 /*Max Width*/
