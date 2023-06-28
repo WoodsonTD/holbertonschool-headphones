@@ -54,6 +54,7 @@ header .header nav {
     background-image: url("images/headphones_hero_1.jpg");
     background-repeat: no-repeat;
     background-size: flex;
+    filter: grayscale(100%);
 }
 
 .header-text p{
